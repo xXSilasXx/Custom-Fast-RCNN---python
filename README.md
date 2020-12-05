@@ -1,4 +1,4 @@
-# Custom-Fast-RCNN - python
+# Custom Mask-RCNN python
 This repository includes a custom object detector.
 The "custom" part is basically how the data set of pictures needs to be designed. Namely The dataset needs to be a folder with the pictures in .jpeg format 
 and annotations in .xml files,  so the structure of the Data Set looks like this:
